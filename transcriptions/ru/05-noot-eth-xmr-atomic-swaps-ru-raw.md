@@ -2,7 +2,7 @@
 
 _**Атомарные свопы ETH-XMR**_
 
-[https://youtu.be/p79BveGg288](https://youtu.be/p79BveGg288)
+[https://youtu.be/f3Yrc_Agg84](https://youtu.be/f3Yrc_Agg84)
 
 ---
 

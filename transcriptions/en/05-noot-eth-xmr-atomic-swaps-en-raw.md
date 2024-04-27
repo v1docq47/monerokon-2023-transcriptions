@@ -1,4 +1,4 @@
-# Elizabeth “noot” Binks
+# Elizabeth "noot" Binks
 
 _**ETH-XMR Atomic Swaps**_
 
@@ -10,7 +10,7 @@ _**Elizabeth:**_ Thanks for coming. I'm Elizabeth. I'll be talking about ETH-Mon
 
 Today I'll talk about the state of the swap. A little bit about the overview and the architecture. A little bit of how to use it if there's time, and then the roadmap for the future.
 
-So just a little bit of background on atomic swaps. So basically it's a p2p and trustless way to swap two native assets between different chains. So the ones that are implemented in this case are ETH and Monero. And then “atomic” means that either the swap is successful, so both parties receive their respective funds that they want to receive or they both get their funds back. And this is kind of like cryptographically guaranteed by the protocol.
+So just a little bit of background on atomic swaps. So basically it's a p2p and trustless way to swap two native assets between different chains. So the ones that are implemented in this case are ETH and Monero. And then "atomic" means that either the swap is successful, so both parties receive their respective funds that they want to receive or they both get their funds back. And this is kind of like cryptographically guaranteed by the protocol.
 
 So on the progress. So this has been deployed on mainnet for around two months now. Yay. So yeah, that's it. So feel free to go try it out and use it. I'll have the GitHub link and stuff in later slides.
 
@@ -52,7 +52,7 @@ So yeah, this is basically the same as the success path, except in the part wher
 
 So additionally, in addition to market makers, like relayers are really essential to part of the system. Otherwise, it just becomes a bit of a pain to use, I suppose. So right now, it's permissionless. Yes, it's for persons who just join I'd highly recommend running one if you want, because you don't need any Monero. You need only a really small amount of ETH just essentially to pay for gas to start off. And you get a little bit of funds. So I would recommend running one.
 
-So went through two different designs for this. So originally went with a meta-transaction compatible design, but a lot of these are all in JavaScript. So kind of didn't like that, because the code is written in Go. So I ended up implementing our own little system, which is a lot cleaner, actually. But in the future, may move to EIP4337, which is “account abstraction”, which is kind of standardized relayer system you could think of. Yeah, but it wasn't super ready at the time of launch, so maybe in the future.
+So went through two different designs for this. So originally went with a meta-transaction compatible design, but a lot of these are all in JavaScript. So kind of didn't like that, because the code is written in Go. So I ended up implementing our own little system, which is a lot cleaner, actually. But in the future, may move to EIP4337, which is "account abstraction", which is kind of standardized relayer system you could think of. Yeah, but it wasn't super ready at the time of launch, so maybe in the future.
 
 And then last thing, or one of the last things - bootnodes. So they're used as an entry point into the p2p network. So every p2p network needs to have hard-coded addresses that the node will connect to on startup to enter the network. Otherwise, I don't know, you just can't get in. So yeah, they have to be publicly known or hard-coded. And also another thing is that it's also recommended if you wanna run a bootnode. So you can just run one. You don't need to have any funds. You don't need to do anything. It's just you're literally running a node that helps with the decentralization of the system, just because more bootnodes is better in case any of them go down. So if you want to contribute, but you don't want to actually do any swaps or anything, you can also run a bootnode.
 
@@ -72,7 +72,7 @@ And then you can also check your balances. So the swap node contains an ETH priv
 
 So then when you want to make a swap, or sorry, when you want to make an offer, you can just do swap CLI make and then your parameters, so how much you want to put as the offer, your exchange rate, and then the program also has suggested exchange rate from an oracle. Obviously, double check it, but it's there.
 
-And then once you've made it, you can see the offer ID and that kind of thing. And then to search the network for offers, you do swapcli get-offers, you can see offers on the network. And then when you see one you like, you can… so this is also... oh sorry, this one is for getting your own offers. And this one is for checking for the offers on the network. So this show you offers. And then when you like one, you can just do take and then pass the offer ID, the peer ID, which is the remote nodes, p2p ID, and then the amount that you're gonna provide in ETH, and then it'll start the swap, and you can check your ongoing swaps as well. It was just the ongoing command. And then you can also check your past swaps with the pass command. And that's basically it.
+And then once you've made it, you can see the offer ID and that kind of thing. And then to search the network for offers, you do swapcli get-offers, you can see offers on the network. And then when you see one you like, you can... so this is also... oh sorry, this one is for getting your own offers. And this one is for checking for the offers on the network. So this show you offers. And then when you like one, you can just do take and then pass the offer ID, the peer ID, which is the remote nodes, p2p ID, and then the amount that you're gonna provide in ETH, and then it'll start the swap, and you can check your ongoing swaps as well. It was just the ongoing command. And then you can also check your past swaps with the pass command. And that's basically it.
 
 I don't have it down all the time because I didn't think there would be enough time, but if you want to check my Monerotopia talk from last month, you can see how it works in practice.
 

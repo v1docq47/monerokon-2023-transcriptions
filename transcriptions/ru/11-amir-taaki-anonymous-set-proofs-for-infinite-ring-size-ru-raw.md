@@ -2,7 +2,7 @@
 
 _**Доказательства анонимных групп для колец с бесконечным количеством участников**_
 
-[https://youtu.be/c936RGM1w5s](https://youtu.be/c936RGM1w5s)
+[https://youtu.be/sp7F2dtY90c](https://youtu.be/sp7F2dtY90c)
 
 ---
 

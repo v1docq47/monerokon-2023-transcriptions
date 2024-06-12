@@ -2,7 +2,7 @@
 
 _**Псевдонимности недостаточно: почему Monero «упускает из виду» проблему децентрализованной идентичности**_
 
-[https://youtu.be/dGSBn7lIpyk](https://youtu.be/dGSBn7lIpyk)
+[https://youtu.be/psv9hsBNAqw](https://youtu.be/psv9hsBNAqw)
 
 ---
 

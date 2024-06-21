@@ -2,7 +2,7 @@
 
 _**Monero и криптовалюты как самый мощный либерализующий инструмент глобального оппортунизма**_
 
-[https://youtu.be/clCcuAIaAz4](https://youtu.be/clCcuAIaAz4)
+[https://youtu.be/LyWuTvNH6mI](https://youtu.be/LyWuTvNH6mI)
 
 ---
 

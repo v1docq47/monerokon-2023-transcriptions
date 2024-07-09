@@ -2,7 +2,7 @@
 
 _**PayMo: верифицируемые временные связываемые кольцевые подписи для построения масштабируемых платёжных каналов Monero**_
 
-[https://youtu.be/1TYbtM9mgMI](https://youtu.be/1TYbtM9mgMI)
+[https://youtu.be/pPhm4l2rtiA](https://youtu.be/pPhm4l2rtiA)
 
 ---
 

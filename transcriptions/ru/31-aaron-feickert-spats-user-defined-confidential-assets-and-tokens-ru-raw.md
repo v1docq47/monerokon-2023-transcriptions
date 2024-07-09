@@ -2,7 +2,7 @@
 
 _**Spats: пользовательские конфиденциальные активы и токены**_
 
-[https://youtu.be/jpdiXfqVeuI](https://youtu.be/jpdiXfqVeuI)
+[https://youtu.be/_qE1CD3J8oM](https://youtu.be/_qE1CD3J8oM)
 
 ---
 

@@ -2,7 +2,7 @@
 
 _**Формальная оценка уровня приватности Monero**_
 
-[https://youtu.be/OC2LjmkMj8g](https://youtu.be/OC2LjmkMj8g)
+[https://youtu.be/Wa5Mcx2XemM](https://youtu.be/Wa5Mcx2XemM)
 
 ---
 

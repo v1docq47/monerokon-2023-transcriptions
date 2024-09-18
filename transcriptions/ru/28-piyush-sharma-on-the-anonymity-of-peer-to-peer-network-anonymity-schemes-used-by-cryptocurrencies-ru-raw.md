@@ -2,7 +2,7 @@
 
 _**Уровень анонимности одноранговой сети, обеспечиваемый схемами, используемыми криптовалютами**_
 
-[https://youtu.be/kfyhb-GCPEE](https://youtu.be/kfyhb-GCPEE)
+[https://youtu.be/si4oCQAUFsY](https://youtu.be/si4oCQAUFsY)
 
 ---
 

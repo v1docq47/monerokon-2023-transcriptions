@@ -2,7 +2,7 @@
 
 _**TariScript - неинтерактивные протоколы Mimblewimble**_
 
-[https://youtu.be/tVk64lLurCU](https://youtu.be/tVk64lLurCU)
+[https://youtu.be/9yjJsLw14r0](https://youtu.be/9yjJsLw14r0)
 
 ---
 

@@ -2,7 +2,7 @@
 
 _**Идентификация против анонимности - битва за будущее финансов**_
 
-[https://youtu.be/4fFzo_plpY4](https://youtu.be/4fFzo_plpY4)
+[https://youtu.be/tKJFvOIHVFA](https://youtu.be/tKJFvOIHVFA)
 
 ---
 

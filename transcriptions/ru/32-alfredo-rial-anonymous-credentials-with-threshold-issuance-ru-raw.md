@@ -2,7 +2,7 @@
 
 _**Создание анонимных учётных записей с помощью механизма порогового оформления**_
 
-[https://youtu.be/lFyyJkxb49A](https://youtu.be/lFyyJkxb49A)
+[https://youtu.be/mNJd6Ebrty8](https://youtu.be/mNJd6Ebrty8)
 
 ---
 

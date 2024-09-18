@@ -2,7 +2,7 @@
 
 _**Куда движется Monerujo?**_
 
-[https://youtu.be/_qE1CD3J8oM](https://youtu.be/_qE1CD3J8oM)
+[https://youtu.be/QGMjC31lONo](https://youtu.be/QGMjC31lONo)
 
 ---
 

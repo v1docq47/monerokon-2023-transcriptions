@@ -2,7 +2,7 @@
 
 _**Обзор безопасности, устойчивости к спаму, масштабируемости и рынка комиссий криптовалют, подобных Monero и Bitcoin**_
 
-[https://youtu.be/KuIRDTsyzkQ](https://youtu.be/KuIRDTsyzkQ)
+[https://youtu.be/VBOvYOrNIMs](https://youtu.be/VBOvYOrNIMs)
 
 ---
 

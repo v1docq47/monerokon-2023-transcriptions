@@ -2,7 +2,7 @@
 
 _**MProve+: повышающее уровень приватности доказательство резервов для Monero**_
 
-[https://youtu.be/KGgBB3pDl3Y](https://youtu.be/KGgBB3pDl3Y)
+[https://youtu.be/fTFnp1xWCpk](https://youtu.be/fTFnp1xWCpk)
 
 ---
 
